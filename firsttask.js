@@ -1,5 +1,5 @@
 let name = "Fadhil Kehinde Akindele"
-let courses = ["html", "css", "javascript", "node.js, design"]
+let courses = ["html", "css", "javascript", "node.js", "design"]
 
 console.log(name);
 console.log(courses);
